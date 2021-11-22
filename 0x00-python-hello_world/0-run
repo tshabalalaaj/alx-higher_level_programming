@@ -1,0 +1,3 @@
+#!/bin/bash
+read main
+python3 $main
